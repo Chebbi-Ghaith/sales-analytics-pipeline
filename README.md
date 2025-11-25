@@ -252,39 +252,7 @@ See [`requirements.txt`](requirements.txt) for complete list:
 
 ---
 
-## 🗺️ Roadmap
 
-### Phase 1: Core ETL ✅
-- [x] Data extraction
-- [x] Transformation pipeline
-- [x] Database loading
-- [x] Report generation
-
-### Phase 2: Enhancement (Future)
-- [ ] Add data visualization dashboards
-- [ ] Implement incremental loads
-- [ ] Add REST API endpoints
-- [ ] Schedule automated runs (cron/Airflow)
-- [ ] Add unit tests (pytest)
-- [ ] Containerization (Docker)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👤 Author
 
@@ -303,13 +271,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
 
-For questions or issues:
-1. Check existing [Issues](https://github.com/yourusername/sales_project/issues)
-2. Create a new issue with detailed description
-3. Contact via email
-
----
 
 **⭐ If you find this project helpful, please give it a star!**
